@@ -4,5 +4,14 @@
   "owner": {
     "name": "John Costanzo"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "poe2",
+      "source": {
+        "source": "github",
+        "repo": "jrock2004/poe2-ai-tool"
+      },
+      "description": "Path of Exile 2 decision assistant: prices, trade searches, gear upgrades, crafting checks, build reviews, Trials picks and market moves."
+    }
+  ]
 }

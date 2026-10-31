@@ -26,7 +26,7 @@ To get new versions later, run:
 
 | Plugin | What it does |
 | ------ | ------------ |
-| _None yet_ | |
+| [poe2](https://github.com/jrock2004/poe2-ai-tool) | Path of Exile 2 decision assistant for prices, gear, builds, Trials and the market. Requires [uv](https://docs.astral.sh/uv/). |
 
 ## Add a skill
 
