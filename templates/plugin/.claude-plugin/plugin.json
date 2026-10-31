@@ -1,0 +1,11 @@
+{
+  "name": "plugin-name",
+  "description": "One sentence on what this plugin helps with.",
+  "version": "0.1.0",
+  "author": {
+    "name": "John Costanzo"
+  },
+  "repository": "https://github.com/jrock2004/jrock2004-ai-marketplace",
+  "license": "MIT",
+  "keywords": []
+}
